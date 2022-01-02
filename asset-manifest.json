@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptopunks/static/css/main.ea5e04b0.chunk.css",
+    "main.js": "/cryptopunks/static/js/main.34a8e25b.chunk.js",
+    "main.js.map": "/cryptopunks/static/js/main.34a8e25b.chunk.js.map",
+    "runtime-main.js": "/cryptopunks/static/js/runtime-main.eeda3c40.js",
+    "runtime-main.js.map": "/cryptopunks/static/js/runtime-main.eeda3c40.js.map",
+    "static/js/2.8db6e526.chunk.js": "/cryptopunks/static/js/2.8db6e526.chunk.js",
+    "static/js/2.8db6e526.chunk.js.map": "/cryptopunks/static/js/2.8db6e526.chunk.js.map",
+    "static/js/3.306dd4a4.chunk.js": "/cryptopunks/static/js/3.306dd4a4.chunk.js",
+    "static/js/3.306dd4a4.chunk.js.map": "/cryptopunks/static/js/3.306dd4a4.chunk.js.map",
+    "index.html": "/cryptopunks/index.html",
+    "static/css/main.ea5e04b0.chunk.css.map": "/cryptopunks/static/css/main.ea5e04b0.chunk.css.map",
+    "static/js/2.8db6e526.chunk.js.LICENSE.txt": "/cryptopunks/static/js/2.8db6e526.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeda3c40.js",
+    "static/js/2.8db6e526.chunk.js",
+    "static/css/main.ea5e04b0.chunk.css",
+    "static/js/main.34a8e25b.chunk.js"
+  ]
+}
